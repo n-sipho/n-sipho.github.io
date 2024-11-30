@@ -36,8 +36,8 @@ const CONFIG = {
   },
   seo: {
     title: 'Portfolio of Siphosenkosi Nkosi',
-    description: 'I`m a passionate and self-taught Software Developer with expertise in building innovative web applications and APIs. Skilled in technologies like Node.js, React.js, Python, and Docker, I specialize in creating scalable, user-focused solutions. From mentoring aspiring developers to delivering projects like a Load Shedding API and machine learning integrations, I bring a problem-solving mindset and a commitment to continuous growth. Let`s create something amazing together!',
-    imageURL: 'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+    description: '',
+    imageURL: '',
   },
   social: {
     linkedin: 'siphosenkosi-nkosi-9a7018223',
