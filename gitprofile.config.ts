@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['n-sipho/load-shedding-api', 'n-sipho/websocket-server'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['n-sipho/load-shedding-api', 'n-sipho/websocket-server', 'n-sipho/evently-scraper'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
